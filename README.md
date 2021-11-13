@@ -1,2 +1,2 @@
 # neural_transfer
-Performing neural transfer on artwork.
+Performing neural style transfer on artwork. 
