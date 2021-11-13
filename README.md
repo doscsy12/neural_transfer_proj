@@ -1,2 +1,2 @@
-# neural_transfer_workshop
-neural transfer workshop
+# neural_transfer
+Performing neural transfer on artwork.
